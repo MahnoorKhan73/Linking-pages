@@ -1,0 +1,31 @@
+* {
+  font-family: cursive;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+i {
+  color:crimson;
+}
+b {
+  color: pink;
+}
+p{
+    color: pink;
+}
+p u{
+    color:yellow !important;
+}
+p  {
+  color: blue ;
+}
+
+p b {
+  color: violet;
+}
+p#intro {
+  font-size: 100%;
+}
+p {
+  font-size: 75%;
+}
